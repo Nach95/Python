@@ -2,6 +2,8 @@
 # -*- coding: utf-8 -*-
 #UNAM-CERT
 
+#Leal Gonzalez Ignacio
+
 def numeroPrimo(numero):
     '''
     Funcion para saber si un numero es un numero primo recibimos un numero como parametro, y vemos si el numero 
