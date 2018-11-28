@@ -2,6 +2,8 @@
 # -*- coding: utf-8 -*-
 #UNAM-CERT
 
+#Leal Gonzalez Ignacio
+
 #Variable para guardar la lista de aprobados
 aprobados = []
 
