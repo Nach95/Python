@@ -8,7 +8,7 @@
 #aleatorias asi como numeros
 from string import letters
 from random import choice, randint
-tarea
+
 # Cadena donde se almacenera nuestro password
 generada = ''
 
